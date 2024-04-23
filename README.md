@@ -1,15 +1,13 @@
 ## Bem-vindo(a) ao perfil do Jesiel Dev 😁
+Um desenvolvedor Full Stack em formação, apaixonado por tecnologia, adquirindo conhecimento em HTML5, CCS3, JavaScript, Python, Lógica de Programação, Git e GitHub.
 
  <div>
    <a href="https://github.com/JesielDevz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesielDevz&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesielDevz&layout=compact&langs_count=6&theme=cobalt2"/>
 </div>
-
-<div style="display: inline_block"><br>
-   ## Estou aprendendo
-
- 
+## Estou aprendendo
+<div style="display: inline_block"><br> 
   <img align="center" alt="GitHub" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />        
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />       
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
